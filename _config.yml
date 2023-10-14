@@ -3,4 +3,4 @@ exclude: ['README.markdown']
 permalink: ':title'
 highlighter: pygments
 safe: false
-title: 'Carte'
+title: '김기현의 블로그'
