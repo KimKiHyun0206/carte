@@ -707,7 +707,6 @@ code {
 }
 
 #content .body code {
-    border: 1px solid #e2e7ea;
     background: #eef1f2;
     border-radius: 2px;
     -moz-border-radius: 2px;
@@ -756,4 +755,8 @@ blockquote > blockquote {
 
 blockquote > p {
     font-weight: bold;
+}
+
+pre > code {
+    border-collapse: collapse;
 }
