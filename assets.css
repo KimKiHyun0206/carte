@@ -661,7 +661,7 @@ code {
     padding: 15px;
 }
 
-#content .body pre code {
+#content .body pre > code {
     color: #546974;
     margin: 15px;
 }
