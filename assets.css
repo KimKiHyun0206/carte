@@ -614,7 +614,7 @@ code {
     background: #e02a10;
 }
 
-
+/*Categories Color*/
 #content article.Spring a h2 code {
     color: #52ce0e;
 }
@@ -628,7 +628,7 @@ code {
 }
 
 #content arccos.Operation a h2 code b {
-    background-color: #222222;
+    background: #222222;
 }
 
 #content arccos.Network a h2 code {
@@ -636,7 +636,7 @@ code {
 }
 
 #content arccos.Network a h2 code b {
-    background-color: #119bdf;
+    background: #119bdf;
 }
 
 #content arccos.Database a h2 code {
@@ -644,7 +644,7 @@ code {
 }
 
 #content arccos.Database a h2 code b {
-    background-color: #e08f10;
+    background: #e08f10;
 }
 
 #content arccos.Java a h2 code {
@@ -652,7 +652,7 @@ code {
 }
 
 #content arccos.Java a h2 code b {
-    background-color: #e02a10;
+    background: #e02a10;
 }
 
 #content arccos.Algorithm a h2 code {
@@ -660,7 +660,7 @@ code {
 }
 
 #content arccos.Algorithm a h2 code b {
-    background-color: #BF00FF;
+    background: #BF00FF;
 }
 
 /* Reference's body */
