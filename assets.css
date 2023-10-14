@@ -623,43 +623,43 @@ code {
     background: #52ce0e;
 }
 
-#content arccos.Operation a h2 code {
+#content article.Operation a h2 code {
     color: #222222;
 }
 
-#content arccos.Operation a h2 code b {
+#content article.Operation a h2 code b {
     background: #222222;
 }
 
-#content arccos.Network a h2 code {
+#content article.Network a h2 code {
     color: #119bdf;
 }
 
-#content arccos.Network a h2 code b {
+#content article.Network a h2 code b {
     background: #119bdf;
 }
 
-#content arccos.Database a h2 code {
+#content article.Database a h2 code {
     color: #e08f10;
 }
 
-#content arccos.Database a h2 code b {
+#content article.Database a h2 code b {
     background: #e08f10;
 }
 
-#content arccos.Java a h2 code {
+#content article.Java a h2 code {
     color: #e02a10;
 }
 
-#content arccos.Java a h2 code b {
+#content article.Java a h2 code b {
     background: #e02a10;
 }
 
-#content arccos.Algorithm a h2 code {
+#content article.Algorithm a h2 code {
     color: #BF00FF;
 }
 
-#content arccos.Algorithm a h2 code b {
+#content article.Algorithm a h2 code b {
     background: #BF00FF;
 }
 
