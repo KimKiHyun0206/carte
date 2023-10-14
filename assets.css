@@ -614,6 +614,15 @@ code {
     background: #e02a10;
 }
 
+
+#content article.SPRING a h2 code {
+    color: #52ce0e;
+}
+
+#content article.SPRING a h2 code b {
+    background: #52ce0e;
+}
+
 /* Reference's body */
 #content h3 {
 }
