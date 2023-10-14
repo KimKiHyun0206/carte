@@ -717,6 +717,18 @@ code {
 
 
 blockquote {
+    padding-left : 30px;
+    padding-top : 20px;
+    padding-bottom : 1px;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
     background-color: #E6E6E6;
-    border-left: black;
+    border-left: solid black;
+    margin-bottom : 30px;
+    margin-left : 0;
+}
+
+blockquote > blockquote {
+    background-color : #D8D8D8;
 }

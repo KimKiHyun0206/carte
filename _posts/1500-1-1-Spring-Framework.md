@@ -18,6 +18,7 @@ layout: null
 
 > ### Java Platform
 > > 프로그램 실행을 위한 하드웨어와 소프트웨어가 결합된 환경
+> 
 > * 알맞는 운영체제 설치가 필요함 -> 그 운영체제 위에서 자바 프로그램을 실행한다
 > * Java Platform = Java VM + Java API
 > * Java VM(Virtual Machine) : Java 프로그램 실행 환경을 제공하는 구동엔진
