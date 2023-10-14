@@ -1,8 +1,8 @@
 ---
 category: Spring
-url_path: '/spring-framework'
+url_path: ''
 title: 'Spring Framework'
-type: 'SPRING'
+type: 'Spring'
 
 layout: null
 ---
