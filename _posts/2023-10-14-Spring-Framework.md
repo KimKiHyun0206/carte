@@ -1,5 +1,5 @@
 ---
-category: Stuff
+category: Spring
 url_path: '/spring-framework'
 title: 'Spring Framework'
 type: 'SPRING'
