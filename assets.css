@@ -658,7 +658,7 @@ code {
     border-radius: 2px;
     -moz-border-radius: 2px;
     -webkit-border-radius: 2px;
-    padding: 0 1px;
+    padding: 15px;
 }
 
 #content .body code {
