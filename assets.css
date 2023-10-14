@@ -620,7 +620,7 @@ code {
 }
 
 #content article.SPRING a h2 code b {
-    background: #52ce0e;
+    color: #52ce0e;
 }
 
 /* Reference's body */
@@ -653,9 +653,9 @@ code {
     white-space: pre;
 }
 
-
-#content .body pre code {
+#content .body pre {
     border: 1px solid #e2e7ea;
+    background: #eef1f2;
     border-radius: 2px;
     -moz-border-radius: 2px;
     -webkit-border-radius: 2px;
