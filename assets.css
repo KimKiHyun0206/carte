@@ -620,7 +620,7 @@ code {
 }
 
 #content article.SPRING a h2 code b {
-    color: #52ce0e;
+    background: #52ce0e;
 }
 
 /* Reference's body */
