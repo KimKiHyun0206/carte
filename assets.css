@@ -732,3 +732,7 @@ blockquote {
 blockquote > blockquote {
     background-color : #D8D8D8;
 }
+
+blockquote > p {
+    font-weight: bold;
+}
