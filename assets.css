@@ -662,6 +662,6 @@ code {
 }
 
 #content .body pre > code {
-    color: #546974;
+    color: red;
     margin: 15px;
 }
