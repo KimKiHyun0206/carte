@@ -714,3 +714,8 @@ code {
     color: #546974;
     border-collapse: collapse;
 }
+
+
+blockquote {
+    background: #E6E6E6;
+}
