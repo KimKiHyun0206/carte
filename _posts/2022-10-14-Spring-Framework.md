@@ -80,7 +80,8 @@ layout: null
             <property name="hibernate.use_sql_comments" value="true"/>
         </properties>
     </persistence-unit>
-</persistence>```
+</persistence>
+```
 
 ### 관점 지향 프로그래밍 프레임워크, Aspect-Oriented Programming Framework
 
