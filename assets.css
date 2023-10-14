@@ -660,8 +660,5 @@ code {
     -webkit-border-radius: 2px;
     padding: 15px;
     border-collapse: collapse;
-}
-
-#content .body pre > code {
     color: #546974;
 }
