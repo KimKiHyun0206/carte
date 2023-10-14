@@ -663,6 +663,14 @@ code {
     background: #8258FA;
 }
 
+#content article.etc a h2 code {
+    color: #F7FE2E;
+}
+
+#content article.etc a h2 code b {
+    background: #F7FE2E;
+}
+
 /* Reference's body */
 #content h3 {
 }
