@@ -18,8 +18,7 @@ This method allows the user to retrieve his stuff.
 ```Authentication: bearer f862f658-ad89-4fcb-995b-7a4c50554ff6```
 ```{
     name: 'My new thing'
-}
-```
+}```
 
 ### Response
 
