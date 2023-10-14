@@ -717,5 +717,6 @@ code {
 
 
 blockquote {
-    background: #E6E6E6;
+    background-color: #E6E6E6;
+    border-left: black;
 }
