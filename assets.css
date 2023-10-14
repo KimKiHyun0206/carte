@@ -662,8 +662,7 @@ code {
 }
 
 #content .body code {
-    -moz-border-radius: 2px;
-    -webkit-border-radius: 2px;
+
     color: #546974;
     margin: 15px;
 }
