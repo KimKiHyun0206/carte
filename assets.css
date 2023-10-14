@@ -655,6 +655,14 @@ code {
     background-color: #e02a10;
 }
 
+#content arccos.Algorithm a h2 code {
+    color: #BF00FF;
+}
+
+#content arccos.Algorithm a h2 code b {
+    background-color: #BF00FF;
+}
+
 /* Reference's body */
 #content h3 {
 }
