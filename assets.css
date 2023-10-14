@@ -659,9 +659,9 @@ code {
     -moz-border-radius: 2px;
     -webkit-border-radius: 2px;
     padding: 15px;
+    border-collapse: collapse;
 }
 
 #content .body pre > code {
-    color: red;
-    margin: 15px;
+    color: #546974;
 }
