@@ -624,11 +624,11 @@ code {
 }
 
 #content article.Operation a h2 code {
-    color: #222222;
+    color: #6E6E6E;
 }
 
 #content article.Operation a h2 code b {
-    background: #222222;
+    background: #6E6E6E;
 }
 
 #content article.Network a h2 code {
@@ -656,11 +656,11 @@ code {
 }
 
 #content article.Algorithm a h2 code {
-    color: #BF00FF;
+    color: #8258FA;
 }
 
 #content article.Algorithm a h2 code b {
-    background: #BF00FF;
+    background: #8258FA;
 }
 
 /* Reference's body */
