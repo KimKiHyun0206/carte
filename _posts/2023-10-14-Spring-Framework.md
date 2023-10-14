@@ -55,7 +55,7 @@ layout: null
 * XML 로 설정하는 경우 : 영속성 컨텍스트를 설정하기 위해 XML 형식을 사용해본 적이 있다
     * 하지만 YML 형식으로 변경하였다
 
-```xml
+```
 <?xml version="1.0" encoding="UTF-8"?>
 <persistence version="2.2"
              xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -89,7 +89,7 @@ layout: null
 
 기존에 널리 사용되고 있는 강력한 AOP 인 AspectJ 도 내부적으로 사용할 수 있으며, 스프링 자체적으로 지원하는 Runtime 에 조합하는 방식도 지원한다
 
-```java
+```
 
 @Configuration
 public class AppConfig {
