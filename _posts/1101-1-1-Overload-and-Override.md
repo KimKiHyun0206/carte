@@ -1,6 +1,6 @@
 ---
 category: Java
-url_path: 'overload-and-override'
+url_path: '/overload-and-override'
 title: 'Overload와 Override'
 type: 'Java'
 
