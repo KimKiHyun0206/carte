@@ -393,7 +393,7 @@ textarea {
 table {
     border: 0px #a39485 solid;
     font-size: 1em;
-    box-shadow: 0 2px 5px rgba(0,0,0,.25);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .25);
     width: 95%;
     border-collapse: collapse;
     border-radius: 5px;
@@ -413,7 +413,7 @@ td, th {
 }
 
 td {
-    border-bottom: 1px solid rgba(0,0,0,.1);
+    border-bottom: 1px solid rgba(0, 0, 0, .1);
     background: #fff;
 }
 
@@ -737,20 +737,20 @@ code {
 
 
 blockquote {
-    padding-left : 30px;
-    padding-top : 20px;
-    padding-bottom : 1px;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 1px;
     border-radius: 2px;
     -moz-border-radius: 2px;
     -webkit-border-radius: 2px;
     background-color: #E6E6E6;
     border-left: solid black;
-    margin-bottom : 30px;
-    margin-left : 0;
+    margin-bottom: 30px;
+    margin-left: 0;
 }
 
 blockquote > blockquote {
-    background-color : #D8D8D8;
+    background-color: #D8D8D8;
 }
 
 blockquote > p {
@@ -759,4 +759,8 @@ blockquote > p {
 
 pre > code {
     border-collapse: collapse;
+}
+
+body > section#content > article > section.body > h1 {
+    line-height: 30px;
 }
