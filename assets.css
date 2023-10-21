@@ -398,6 +398,7 @@ table {
     border-collapse: collapse;
     border-radius: 5px;
     overflow: hidden;
+    margin-bottom : 20px;
 }
 
 
@@ -716,8 +717,7 @@ code {
 }
 
 #content .body p > code {
-    display: block;
-    padding: 15px;
+    padding: 5px;
     white-space: pre;
 }
 
@@ -757,9 +757,6 @@ blockquote > p {
     font-weight: bold;
 }
 
-pre > code {
-    border-collapse: collapse;
-}
 
 body > section#content > article > section.body > h1 {
     line-height: 30px;
